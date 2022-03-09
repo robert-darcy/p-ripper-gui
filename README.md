@@ -37,5 +37,5 @@ A few things should be noted-
 
 - Some more work needs to be done as there are 2 known bugs which I need to get around to fixing.
 
-
+- I am working on a command line only version of this which will use Python 2 syntax.
 
