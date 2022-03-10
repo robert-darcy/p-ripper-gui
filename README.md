@@ -23,7 +23,7 @@ If no internet connection is available the program will ask for the name of the 
 
 The tracks are ripped to WAV files by CDPARANOIA and this can be a slow process as CDPARANOIA runs intensive error correction routines in order to get the best copy of each track it can. It can also be a bit noisy.
 
-Next MP3 files are created from the WAV files by the LAME encoder. If data was retrieved from the MusicBrainz API it will rename all the tracks and add ID3 tags to each track.
+Next, MP3 files are created from the WAV files by the LAME encoder. If data was retrieved from the MusicBrainz API it will rename all the tracks and add ID3 tags to each track.
 
 The GUI is made with TKinter.
 
